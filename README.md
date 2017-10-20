@@ -1,5 +1,5 @@
 # Crossings
-This respository contains the lattice model simulations supporting our article on crossing probabilities for polygons: [arxiv.org/abs/1608.00170](https://arxiv.org/abs/1608.00170)
+This respository contains the lattice model simulations supporting our article on crossing probabilities for polygons: [arxiv.org/abs/1608.00170](https://arxiv.org/abs/1608.00170).
 
 The simulations section of our article explains the code that you will find in this repository. We have tried to name these files in a self-evident way:
 * 'FkQ2' means the Q=2 critical FK (random cluster) model, and 'SpinQ2' means the Q=2 Potts model. 
