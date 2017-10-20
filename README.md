@@ -1,5 +1,5 @@
 # Crossings
-This respository contains the lattice model simulations supporting our articles on crossing probabilities for polygons: [arxiv.org/abs/1608.00170](https://arxiv.org/abs/1608.00170) and [arxiv.org/abs/1407.8163](https://arxiv.org/abs/1407.8163).
+This repository contains the simulations supporting predictions in our articles on crossing probabilities for polygons: [arxiv.org/abs/1608.00170](https://arxiv.org/abs/1608.00170) and [arxiv.org/abs/1407.8163](https://arxiv.org/abs/1407.8163).
 
 The simulations section of our article explains the code that you will find in this repository. We have tried to name these files in a self-evident way:
 * 'FkQ2' means the Q=2 critical FK (random cluster) model, 'SpinQ2' means the Q=2 Potts model, and 'Perc' means percolation.
